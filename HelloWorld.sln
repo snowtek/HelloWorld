@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementation", "ClassLibrary1\Implementation.csproj", "{C12B7384-0A1A-4F4F-B843-0E67E6EC278B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementation", "Implementation\Implementation.csproj", "{C12B7384-0A1A-4F4F-B843-0E67E6EC278B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterface", "Iterface\Iterface.csproj", "{C61D5F9F-66A3-44BF-B9F7-9E9DA8A333AE}"
 EndProject

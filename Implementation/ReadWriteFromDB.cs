@@ -10,7 +10,7 @@ namespace HelloWorld
     {
         public override string ReadString()
         {
-            return base.ReadString();
+            throw new NotImplementedException();
         }
     }
 }

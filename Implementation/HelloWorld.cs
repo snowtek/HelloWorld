@@ -10,7 +10,7 @@ namespace HelloWorld
         /// <summary>
         /// property that holds the string and defaulted with "Hello World"
         /// </summary>
-        private string _helloWorld = "Hello World";
+        protected string _helloWorld = "Hello World";
 
         /// <summary>
         /// Contructor
@@ -46,7 +46,7 @@ namespace HelloWorld
         /// <returns></returns>
         public virtual string ReadString()
         {
-            throw new NotImplementedException();
+            return _helloWorld;
         }
 
         /// <summary>
